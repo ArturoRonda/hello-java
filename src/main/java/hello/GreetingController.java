@@ -1,5 +1,5 @@
 package hello;
-import greetingTranslator
+import greetingTranslator;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
